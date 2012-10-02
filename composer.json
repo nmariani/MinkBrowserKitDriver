@@ -1,5 +1,5 @@
 {
-    "name":         "behat/mink-browserkit-driver",
+    "name":         "nmariani/mink-browserkit-driver",
     "description":  "Symfony2 BrowserKit driver for Mink framework",
     "keywords":     ["Symfony2", "testing", "browser"],
     "homepage":     "http://mink.behat.org/",
